@@ -1,5 +1,9 @@
 import greenfoot.*;  // (Actor, World, Greenfoot, GreenfootImage)
-
+/**
+ * This defines the crabworld
+ * @author Jack
+ * @version Oct.2/2024
+ */
 public class CrabWorld extends World
 {
     /**
