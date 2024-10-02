@@ -4,7 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * This class defines a lobster. lobster random move on the beach.
  * 
  * @author Jack Zhang
- * @version Oct.1/2024 
+ * @version Oct.2/2024 
  */
 public class Lobster extends Actor
 {

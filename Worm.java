@@ -4,7 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * This class defines worm on the beach
  * 
  * @author Jack Zhang
- * @version Oct1/2024
+ * @version Oct2/2024
  */
 public class Worm extends Actor
 {

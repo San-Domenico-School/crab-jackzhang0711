@@ -3,7 +3,7 @@ import greenfoot.*;
 /**
  * This class defines a crab. Crabs live on the beach.
  * @author Jack Zhang
- * @version 10/1/2024 12:00 am
+ * @version 10/2/2024 12:00 am
  */
 public class Crab extends Actor
 {
